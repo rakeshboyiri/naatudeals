@@ -6,7 +6,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold mb-8">Welcome to Our Simple Website</h1>
       <div className="space-x-4">
         <Link href="/user" className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
-          User View
+          User Dashboard
         </Link>
         <Link href="/admin/login" className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
           Admin Login
